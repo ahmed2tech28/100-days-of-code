@@ -221,3 +221,283 @@ Here is a collection of 100 advanced JavaScript problems that you can solve in a
 
 - **Problem**: Write a function that checks if a string is a palindrome, ignoring non-alphanumeric characters.
 - **Skills**: String manipulation, two-pointer technique.
+
+## 45. Find All Subsequences
+
+- **Problem**: Write a function that generates all possible subsequences of a string.
+- **Skills**: Recursion, backtracking.
+
+## 46. Longest Increasing Subsequence
+
+- **Problem**: Write a function that returns the length of the longest increasing subsequence in an array.
+- **Skills**: Dynamic programming, arrays.
+
+## 47. Kth Largest Element
+
+- **Problem**: Write a function that finds the Kth largest element in an unsorted array.
+- **Skills**: Sorting, heaps.
+
+## 48. Maximum Product Subarray
+
+- **Problem**: Write a function that finds the contiguous subarray with the maximum product.
+- **Skills**: Dynamic programming, arrays.
+
+## 49. Subset Sum
+
+- **Problem**: Write a function that checks if there is a subset of a given array with a sum equal to a target value.
+- **Skills**: Recursion, dynamic programming.
+
+## 50. Generate All Subsets
+
+- **Problem**: Write a function that generates all subsets (the power set) of an array.
+- **Skills**: Recursion, backtracking.
+
+## 51. Valid Sudoku
+
+- **Problem**: Write a function that checks whether a given Sudoku board is valid.
+- **Skills**: Arrays, hash sets.
+
+## 52. Coin Change Problem
+
+- **Problem**: Write a function to find the fewest number of coins needed to make up a given amount.
+- **Skills**: Dynamic programming.
+
+## 53. N-Queens Problem
+
+- **Problem**: Write a function that solves the N-Queens problem and returns all possible solutions.
+- **Skills**: Recursion, backtracking.
+
+## 54. Word Break Problem
+
+- **Problem**: Write a function that checks if a string can be segmented into a space-separated sequence of valid dictionary words.
+- **Skills**: Dynamic programming, hash sets.
+
+## 55. Sliding Window Maximum
+
+- **Problem**: Write a function that finds the maximum value in every sliding window of size `k` in an array.
+- **Skills**: Sliding window, deque.
+
+## 56. Shortest Path in a Grid
+
+- **Problem**: Write a function to find the shortest path from the top-left to the bottom-right corner of a grid.
+- **Skills**: Graph traversal, BFS.
+
+## 57. Implement a Queue Using Stacks
+
+- **Problem**: Write a class that implements a queue using only stacks.
+- **Skills**: Data structures.
+
+## 58. Trap Rainwater
+
+- **Problem**: Write a function to calculate the amount of water trapped after raining over a set of heights.
+- **Skills**: Arrays, two-pointer technique.
+
+## 59. Largest Rectangle in Histogram
+
+- **Problem**: Write a function that finds the largest rectangle in a histogram.
+- **Skills**: Stacks, arrays.
+
+## 60. Find Missing Ranges
+
+- **Problem**: Write a function that finds the missing ranges in a given array of integers.
+- **Skills**: Arrays, loops.
+
+## 61. Minimum Window Substring
+
+- **Problem**: Write a function that finds the smallest substring containing all characters of a given string.
+- **Skills**: Sliding window, hash maps.
+
+## 62. Longest Palindromic Substring
+
+- **Problem**: Write a function that returns the longest palindromic substring in a string.
+- **Skills**: Dynamic programming, string manipulation.
+
+## 63. Edit Distance
+
+- **Problem**: Write a function that computes the minimum edit distance between two strings.
+- **Skills**: Dynamic programming.
+
+## 64. Number of Islands
+
+- **Problem**: Write a function to count the number of islands in a grid (connected regions of 1s).
+- **Skills**: Graph traversal, DFS, BFS.
+
+## 65. Decode Ways
+
+- **Problem**: Write a function that determines the number of ways to decode a string encoded as numbers.
+- **Skills**: Dynamic programming.
+
+## 66. Find All Permutations
+
+- **Problem**: Write a function that generates all permutations of an array.
+- **Skills**: Recursion, backtracking.
+
+## 67. Knight’s Tour Problem
+
+- **Problem**: Write a function to find all possible solutions for the Knight’s Tour problem on a chessboard.
+- **Skills**: Recursion, backtracking.
+
+## 68. Sudoku Solver
+
+- **Problem**: Write a function that solves a given Sudoku puzzle.
+- **Skills**: Recursion, backtracking.
+
+## 69. Find Median in a Stream
+
+- **Problem**: Write a class that finds the median of a stream of numbers.
+- **Skills**: Heaps, data structures.
+
+## 70. Sort Colors
+
+- **Problem**: Write a function to sort an array of colors (represented as 0, 1, and 2) in place.
+- **Skills**: Arrays, two-pointer technique.
+
+## 71. Multiply Strings
+
+- **Problem**: Write a function to multiply two strings representing large numbers.
+- **Skills**: String manipulation, math.
+
+## 72. Find Majority Element
+
+- **Problem**: Write a function that finds the majority element in an array (an element that appears more than `n/2` times).
+- **Skills**: Arrays, hash maps.
+
+## 73. Clone a Graph
+
+- **Problem**: Write a function to clone a graph represented as an adjacency list.
+- **Skills**: Graph traversal, recursion.
+
+## 74. Find Cycle in a Linked List
+
+- **Problem**: Write a function to detect a cycle in a linked list.
+- **Skills**: Linked lists, two-pointer technique.
+
+## 75. LRU Cache Implementation
+
+- **Problem**: Write a class that implements an LRU cache with `get` and `put` methods.
+- **Skills**: Hash maps, linked lists.
+
+## 76. Maximal Square in a Matrix
+
+- **Problem**: Write a function to find the largest square containing only 1s in a matrix.
+- **Skills**: Dynamic programming, matrices.
+
+## 77. Substring with Concatenation of All Words
+
+- **Problem**: Write a function that finds all starting indices of substrings formed by concatenating all given words.
+- **Skills**: Sliding window, hash maps.
+
+## 78. Count Inversions
+
+- **Problem**: Write a function to count the number of inversions in an array.
+- **Skills**: Divide and conquer.
+
+## 79. Binary Tree Level Order Traversal
+
+- **Problem**: Write a function that returns the level order traversal of a binary tree.
+- **Skills**: Trees, queues.
+
+## 80. Binary Tree Zigzag Level Order Traversal
+
+- **Problem**: Write a function that returns the zigzag level order traversal of a binary tree.
+- **Skills**: Trees, queues.
+
+## 81. Find Lowest Common Ancestor
+
+- **Problem**: Write a function to find the lowest common ancestor of two nodes in a binary tree.
+- **Skills**: Trees, recursion.
+
+## 82. Serialize and Deserialize Binary Tree
+
+- **Problem**: Write functions to serialize and deserialize a binary tree into/from a string.
+- **Skills**: Trees, recursion.
+
+## 83. Maximum Path Sum in a Binary Tree
+
+- **Problem**: Write a function to find the maximum path sum in a binary tree.
+- **Skills**: Trees, recursion.
+
+## 84. Word Search in a Grid
+
+- **Problem**: Write a function to determine if a word exists in a 2D grid of characters.
+- **Skills**: Recursion, backtracking.
+
+## 85. Count Distinct Subsequences
+
+- **Problem**: Write a function to count distinct subsequences of a string.
+- **Skills**: Dynamic programming.
+
+## 86. Kth Smallest Element in a Matrix
+
+- **Problem**: Write a function to find the Kth smallest element in a sorted matrix.
+- **Skills**: Heaps, binary search.
+
+## 87. Maximum Points You Can Obtain from Cards
+
+- **Problem**: Write a function to find the maximum score by picking cards from either end of an array.
+- **Skills**: Sliding window.
+
+## 88. Reverse Nodes in k-Group
+
+- **Problem**: Write a function to reverse nodes in k-sized groups in a linked list.
+- **Skills**: Linked lists, recursion.
+
+## 89. Find All Palindromic Substrings
+
+- **Problem**: Write a function to find all palindromic substrings in a string.
+- **Skills**: String manipulation, dynamic programming.
+
+## 90. Burst Balloons
+
+- **Problem**: Write a function to maximize coins by bursting balloons in an optimal order.
+- **Skills**: Dynamic programming.
+
+## 91. House Robber Problem
+
+- **Problem**: Write a function to maximize the amount of money robbed from non-adjacent houses.
+- **Skills**: Dynamic programming.
+
+## 92. Decode String
+
+- **Problem**: Write a function to decode a string encoded with numbers and square brackets (e.g., "3[a]2[bc]").
+- **Skills**: Stacks, string manipulation.
+
+## 93. Longest Valid Parentheses
+
+- **Problem**: Write a function to find the length of the longest valid parentheses substring.
+- **Skills**: Stacks, dynamic programming.
+
+## 94. Divide Two Integers
+
+- **Problem**: Write a function to divide two integers without using multiplication, division, or mod operator.
+- **Skills**: Math, bit manipulation.
+
+## 95. Maximum Frequency Stack
+
+- **Problem**: Write a class that implements a stack with maximum frequency tracking.
+- **Skills**: Stacks, hash maps.
+
+## 96. Alien Dictionary
+
+- **Problem**: Write a function to return the order of characters in an alien language given a sorted list of words.
+- **Skills**: Graphs, topological sorting.
+
+## 97. Find Smallest Subarray with Sum Greater Than Target
+
+- **Problem**: Write a function to find the smallest subarray with a sum greater than a target value.
+- **Skills**: Sliding window.
+
+## 98. Rotate Image
+
+- **Problem**: Write a function to rotate an NxN matrix 90 degrees clockwise.
+- **Skills**: Matrices.
+
+## 99. Palindrome Partitioning
+
+- **Problem**: Write a function to partition a string into palindromic substrings.
+- **Skills**: Dynamic programming, recursion.
+
+## 100. Find Duplicate Subtrees
+
+- **Problem**: Write a function to find all duplicate subtrees in a binary tree.
+- **Skills**: Trees, hash maps.
